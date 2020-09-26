@@ -14,6 +14,6 @@ Install Selenium with geckodriver
 
 run `python start.py [UMD Username]`. Python3.6+ is required
 
-## License/Donate
+## License
 
 Laundry is [MIT licensed](./LICENSE).
